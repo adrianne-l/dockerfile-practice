@@ -7,4 +7,4 @@ USER root
 # Install package docopt
 RUN mamba install --quiet --yes \
   'docopt=0.6.2' \
-  
+#
